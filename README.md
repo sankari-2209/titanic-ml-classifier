@@ -44,4 +44,4 @@ Or upload the notebook to Google Colab and choose Runtime > Run all.
 ## Limitations
 Small dataset (143 test passengers), 177 rows dropped for missing age, only four features, and 28% of survivors are missed. The model finds patterns, not causes.
 
-**Author:** Your Name
+**Author:** Sankari
